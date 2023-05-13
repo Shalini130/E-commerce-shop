@@ -37,3 +37,4 @@ All sliders, features and custom styles are built by Mehdi Zandian .
 
 - [@Mehdi-Zandian](https://github.com/Mehdi-Zandian)
 
+Huawei.png
